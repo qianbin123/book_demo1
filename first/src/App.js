@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 // import ClickCounter from './component/demo1/ClickCounter';
-import ControlPanel from './component/demo1/ControlPanel';
+// import ControlPanel from './component/demo1/ControlPanel';
 // import Parent from './component/demo2/Parent'
+import ControlPanel from './component/demo3/views/ControlPanel';
 
 export default class App extends Component {
     
